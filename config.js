@@ -23,7 +23,7 @@ var config = {
             image: './path/to/image/source.png',
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             location: {
-                center: [40.776676, -73.971321],
+                center: [40.77667, -73.97132],
                 zoom: 8.5,
                 pitch: 60,
                 bearing: 143
@@ -53,7 +53,7 @@ var config = {
             image: './path/to/image/source.png',
             description: "Let's go somewhere else!",
             location: {
-                center: [35.685272, 139.709164],
+                center: [35.68527, 139.70916],
                 zoom: 8.5,
                 pitch: 60,
                 bearing: -43.2
